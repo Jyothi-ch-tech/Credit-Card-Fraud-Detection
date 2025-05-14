@@ -20,3 +20,7 @@ The dataset is from Kaggle: Credit Card Fraud Detection
 - matplotlib, seaborn
 - scikit-learn
 - imblearn (SMOTE)
+## Dataset
+
+You can download the dataset from [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
